@@ -11,6 +11,12 @@ If the cards exceed 7.5 points, they have gone bust, show their cards and loss t
 Repository for downloads:
 Repository for downloads: https://github.com/antor44/75
 
-Requirements: -MSX 1/2/2+ Europe or USA BIOS
+Requirements:
+
+-MSX 1/2/2+ Europe or USA BIOS
+
+
 -Or OpenMSX emulator with Basic ROM
+
+
 -Or WebMSX:  https://webmsx.org/
