@@ -8,7 +8,6 @@ Card Values: Aces=1 point, 1-7=Face value, Picture Cards: 1/2 point. In this   v
 If the cards exceed 7.5 points, they have gone bust, show their cards and loss the hand. If the cards are exactly 7.5 points, players show their hand, their turn is finished and they will most likely win, unless the dealer has too 7.5. If a dealer goes bust, then the other player that hasn't gone bust wins. If a single player scores 7.5 points, they win and control the dealer on the next hand.
 
 
-Repository for downloads:
 Repository for downloads: https://github.com/antor44/75
 
 Requirements:
