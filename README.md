@@ -1,4 +1,9 @@
 # Seven and a half
+
+![Screenshot](https://github.com/antor44/75/blob/main/75_main.jpg)
+
+#
+
 Seven and a half is a free MSX Basic game, developed with default Basic, in text mode (SCREEN 0) and without inserting machine code.
 
 How to play: This card game uses packs of 40 cards. Players play against the dealer. On each player's turn they may ask for extra cards to improve their card total. The final card remains face-down.
