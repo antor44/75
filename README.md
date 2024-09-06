@@ -1,5 +1,8 @@
 # Seven and a half
 
+![Seven and a half](https://github.com/antor44/75/blob/main/Seven%20and%20a%20half.jpg)
+#
+
 ![Screenshot](https://github.com/antor44/75/blob/main/75_main.jpg)
 
 #
